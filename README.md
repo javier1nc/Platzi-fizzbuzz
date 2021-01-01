@@ -1,5 +1,7 @@
 # fizzbuzz
 
+![Desktop preview](./design/desktop-preview.png)
+
 Cuando te presentas a un trabajo de programador tal vez debas resolver un problema llamado fizzbuzz, este busca conocer tus conocimientos, veamos cómo resolverlos
 
 Primero debes conocer cómo calcular el residuo de una división, ahora puedes llevar esto a código
