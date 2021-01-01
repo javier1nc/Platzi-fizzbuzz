@@ -12,6 +12,6 @@ Recuerda:
 - Los programas dividen los programas complejos en problemas pequeños
 - La operación lógica and (y) se escribe en JavaScript con &&
 
-Problema: 
+El reto: 
 
 Escribe los numeros del 1 al 100 pero si el numero es multiplo de 3 escribe fizz, si el numero es multiplo de 5 escribe buzz y si el numero es multiplo de 3 y 5 escribe fizzbuzz
